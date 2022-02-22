@@ -1,0 +1,7 @@
+input
+     n ededi
+     n 3 ve 7 bolunurmu?
+     if 3/7 :
+     print("3 7-e bolunur")
+     else
+     print("3 7-e bolunmur")

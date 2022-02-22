@@ -1,0 +1,9 @@
+
+
+
+input 
+   havanin temp = n 
+   if n < 15 :
+   print("hava soyuqdur")
+   else 
+   print("hava istidi")          
